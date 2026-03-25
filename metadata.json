@@ -1,0 +1,5 @@
+{
+  "name": "Echo - Local Social Feed",
+  "description": "A lightweight, persistent social feed that stores your posts locally. Switch nicknames to create threads and test data persistence.",
+  "requestFramePermissions": []
+}
